@@ -29,9 +29,9 @@ DONE:
 - Implement kind sorting dropdown for current page
 - Implement kind sorting search filter
 - Refresh metadata button
+- Add install from .flatpakref functionality
 
 TODO:
-- Add install from .flatpakref functionality
 - Package information page/section.
 - add about section
 - Update management GUI (individual apps can already be updated)
